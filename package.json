@@ -1,0 +1,20 @@
+{
+  "name": "comp3123-exec06",
+  "version": "1.0.0",
+  "description": "Week 06 Exercise - Notes Application In this exercise, you will build a RESTful CRUD API for a simple Note-Taking application using Node.js, Express, and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
